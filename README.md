@@ -56,3 +56,11 @@ Contributions are welcome. Please open an issue or create a pull request with yo
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out to me at [Your Email Address] or on [Your Social Media Profiles].
+            <img src="assets/instacart.png" alt="instacart" />
+            <img src="assets/salesforce.png" alt="salesforce" />
+            <img src="assets/amazon.png" alt="amazon" />
+            <img src="assets/slack.png" alt="slack" />
+            <img src="assets/shopify.png" alt="shopify" />
+            <img src="assets/google.png" alt="google" />
+            <img src="assets/lyft.png" alt="lyft" />
+            <img src="assets/zoom.png" alt="zoom" />
